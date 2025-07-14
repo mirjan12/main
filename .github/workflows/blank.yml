@@ -1,0 +1,71 @@
+{
+    "miner": {
+        "devices": [
+            {
+                "accepted_shares": 4,
+                "core_clock": 1530,
+                "core_utilization": 100,
+                "fan": 59,
+                "hashrate": "61.50 M",
+                "hashrate2": "0.000 ",
+                "hashrate2_raw": 0,
+                "hashrate_raw": 61497708.17088159,
+                "id": 0,
+                "info": "NVIDIA GeForce RTX 3070",
+                "invalid_shares": 0,
+                "lhr": 0,
+                "memTemperature": -1,
+                "mem_clock": 8000,
+                "mem_utilization": 100,
+                "pci_bus_id": 1,
+                "power": 131,
+                "rejected_shares": 0,
+                "temperature": 57
+            },
+            {
+                "accepted_shares": 3,
+                "core_clock": 1035,
+                "core_utilization": 100,
+                "fan": 80,
+                "hashrate": "85.07 M",
+                "hashrate2": "0.000 ",
+                "hashrate2_raw": 0,
+                "hashrate_raw": 85069773.34248555,
+                "id": 1,
+                "info": "NVIDIA GeForce RTX 3080 Ti LHR",
+                "invalid_shares": 0,
+                "lhr": 74,
+                "memTemperature": 104,
+                "mem_clock": 10251,
+                "mem_utilization": 100,
+                "pci_bus_id": 48,
+                "power": 258,
+                "rejected_shares": 0,
+                "temperature": 64
+            }
+        ],
+        "total_hashrate": "146.6 M",
+        "total_hashrate2": "0.000 ",
+        "total_hashrate2_raw": 0,
+        "total_hashrate_raw": 146567481.51336715,
+        "total_power_consume": 389
+    },
+    "reboot_times": 0,
+    "start_time": 1637549633,
+    "stratum": {
+        "accepted_shares": 7,
+        "algorithm": "ethash",
+        "difficulty": "4.295 G",
+        "dual_mine": false,
+        "invalid_shares": 0,
+        "latency": 217,
+        "pool_hashrate_10m": "217.9 M",
+        "pool_hashrate_24h": "217.9 M",
+        "pool_hashrate_4h": "217.9 M",
+        "rejected_shares": 0,
+        "url": "asia2.ethermine.org:5555",
+        "use_ssl": true,
+        "user": "0x4296116d44a4a7259B52B1A756e19083e675062A"
+    },
+    "version": "40.0"
+}
